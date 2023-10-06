@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'info@gggexport.com';
+$email_from = 'info@https://yash-y09.github.io/GGGE';
 
 $email_subject = 'New From Submission';
 
